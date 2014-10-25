@@ -1,5 +1,5 @@
 /*
-    @mainpage Particles on a Board GUI
+    @mainpage HW3
     @author Tim Maytom
     @date 10/24/2014
     @section DESCRIPTION
